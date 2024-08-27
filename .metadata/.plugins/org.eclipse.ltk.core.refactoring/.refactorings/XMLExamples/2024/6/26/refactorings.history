@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;XMLExamples/FFM_2mem_SC6.xml&apos; to &apos;FFM_2mem_SC3.xml&apos;" description="Rename resource &apos;FFM_2mem_SC6.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="FFM_2mem_SC6.xml" name="FFM_2mem_SC3.xml" stamp="1719395435969" updateReferences="true"/>
+</session>

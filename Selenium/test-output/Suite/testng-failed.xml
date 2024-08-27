@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestCase2(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestNGDemo.CrossBrowserDemo">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="testLoginDemoWebShop"/>
+        </methods>
+      </class> <!-- TestNGDemo.CrossBrowserDemo -->
+    </classes>
+  </test> <!-- TestCase2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

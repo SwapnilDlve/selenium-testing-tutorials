@@ -1,0 +1,27 @@
+2024-01-05 15:52:52,835 INFO L.LogListener [main] test project start
+2024-01-05 15:52:52,907 INFO L.LogListener [main] test started ->navigateTest
+2024-01-05 15:53:11,539 INFO L.LogListener [main] test success ->navigateTest
+2024-01-05 15:53:11,545 INFO L.LogListener [main] test started ->scrollDemo
+2024-01-05 15:53:35,189 INFO L.LogListener [main] test success ->scrollDemo
+2024-01-05 15:53:35,201 INFO t.testPagesDemo2 [main] before class - browser launch once
+2024-01-05 15:53:45,025 INFO L.LogListener [main] test started ->testLoginLink
+2024-01-05 15:53:45,576 INFO L.LogListener [main] test success ->testLoginLink
+2024-01-05 15:53:45,577 INFO L.LogListener [main] test started ->testRegisterLink
+2024-01-05 15:53:46,061 INFO L.LogListener [main] test success ->testRegisterLink
+2024-01-05 15:53:46,063 INFO L.LogListener [main] test started ->testRegisterWithValidUsers
+2024-01-05 15:53:46,073 INFO L.LogListener [main] test skipped ->testRegisterWithValidUsers
+2024-01-05 15:53:46,073 INFO L.LogListener [main] test started ->testRegisterWithValidUsers
+2024-01-05 15:53:46,074 INFO L.LogListener [main] test skipped ->testRegisterWithValidUsers
+2024-01-05 15:53:46,075 INFO L.LogListener [main] test started ->testRegisterWithValidUsers
+2024-01-05 15:53:46,075 INFO L.LogListener [main] test skipped ->testRegisterWithValidUsers
+2024-01-05 15:53:46,076 INFO L.LogListener [main] test started ->testRegisterWithValidUsers
+2024-01-05 15:53:46,076 INFO L.LogListener [main] test skipped ->testRegisterWithValidUsers
+2024-01-05 15:53:46,077 INFO L.LogListener [main] test started ->testRegisterWithValidUsers
+2024-01-05 15:53:46,077 INFO L.LogListener [main] test skipped ->testRegisterWithValidUsers
+2024-01-05 15:53:46,078 INFO L.LogListener [main] test started ->testRegisterWithValidUsers
+2024-01-05 15:53:46,082 INFO L.LogListener [main] test failure ->testRegisterWithValidUsers
+2024-01-05 15:53:46,083 INFO L.LogListener [main] Message : expected [true] but found [false]
+2024-01-05 15:53:46,085 INFO L.LogListener [main] test started ->testLoginWithValidUsers
+2024-01-05 15:53:46,086 INFO L.LogListener [main] test skipped ->testLoginWithValidUsers
+2024-01-05 15:53:46,089 INFO t.testPagesDemo2 [main] after class - browser close once
+2024-01-05 15:53:46,524 INFO L.LogListener [main] test project finish

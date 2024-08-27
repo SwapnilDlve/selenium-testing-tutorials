@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="26.945" tests="6" skipped="0" failures="0" errors="0">
+<testcase classname="Login Feature" name="Valid Users Scenario - Example #1.1" time="16.211">
+<system-out><![CDATA[
+Given The url of the demo web shop "http://demowebshop.tricentis.com/login/".passed
+When The user enters valid email "askmail@email.com"........................passed
+And The user enters valid password "abc123".................................passed
+* The user clicks on login button...........................................passed
+Then The user is in the shopping page.......................................passed
+But Not on the login page...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Valid Users Scenario - Example #1.2" time="2.873">
+<system-out><![CDATA[
+Given The url of the demo web shop "http://demowebshop.tricentis.com/login/".passed
+When The user enters valid email "askmail@ymail.com"........................passed
+And The user enters valid password "abc123".................................passed
+* The user clicks on login button...........................................passed
+Then The user is in the shopping page.......................................passed
+But Not on the login page...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Valid Users Scenario - Example #1.3" time="3.104">
+<system-out><![CDATA[
+Given The url of the demo web shop "http://demowebshop.tricentis.com/login/".passed
+When The user enters valid email "askmail@gmail.com"........................passed
+And The user enters valid password "abc123".................................passed
+* The user clicks on login button...........................................passed
+Then The user is in the shopping page.......................................passed
+But Not on the login page...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Invalid Users Scenario - Example #1.1" time="1.427">
+<system-out><![CDATA[
+Given The url of the demo web shop "http://demowebshop.tricentis.com/login/".passed
+When The user enters Invalid email "askmail@email.com"......................passed
+And The user enters Invalid password "abc1234"..............................passed
+* The user clicks on login button...........................................passed
+Then The user is in the login page..........................................passed
+But Not on the shopping page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Invalid Users Scenario - Example #1.2" time="1.415">
+<system-out><![CDATA[
+Given The url of the demo web shop "http://demowebshop.tricentis.com/login/".passed
+When The user enters Invalid email "askmail@ymail.com"......................passed
+And The user enters Invalid password "abc1234"..............................passed
+* The user clicks on login button...........................................passed
+Then The user is in the login page..........................................passed
+But Not on the shopping page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Feature" name="Invalid Users Scenario - Example #1.3" time="1.488">
+<system-out><![CDATA[
+Given The url of the demo web shop "http://demowebshop.tricentis.com/login/".passed
+When The user enters Invalid email "askmail@gmail.com"......................passed
+And The user enters Invalid password "abc1234"..............................passed
+* The user clicks on login button...........................................passed
+Then The user is in the login page..........................................passed
+But Not on the shopping page................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

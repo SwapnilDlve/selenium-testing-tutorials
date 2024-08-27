@@ -1,0 +1,6 @@
+1702884963386	Extract local variable 'chromeDriver'
+1702885126093	Rename type 'GoogleHomePageTEst'
+1702897643820	Extract local variable 'email'
+1702897728450	Extract local variable 'pass'
+1702976511998	Move file
+1702983765784	Rename resource 'testng.xml'

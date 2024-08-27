@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 6, Time elapsed: 55.708 sec <<< FAILURE! - in TestSuite
+testRegisterWithValidUsers(tests.testPagesDemo2)  Time elapsed: 0.006 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertTrue(Assert.java:57)
+	at org.testng.Assert.assertTrue(Assert.java:67)
+	at tests.testPagesDemo2.testRegisterWithValidUsers(testPagesDemo2.java:67)
+

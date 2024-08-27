@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="CHamptRadina"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="CHamptRadina"/>
+			<item value="pe25481004"/>
+			<item value="FFM"/>
+			<item value="2500"/>
+			<item value="2024-07-16"/>
+			<item value="disabi"/>
+			<item value="person"/>
+			<item value="FFM9945210125061855"/>
+			<item value="2024-06-26T00:11:15.136-07:00"/>
+			<item value="2024-07-16T00:11:15.136-07:00"/>
+			<item value="disa"/>
+			<item value="2024-06-26T08:04:19.27-07:00"/>
+			<item value="2024-06-26T08:08:56.261-07:00"/>
+			<item value="2024-06-26T08:06:56.077-07:00"/>
+			<item value="2024-06-26T08:04:18.73-07:00"/>
+		</list>
+		<list key="replacehistory">
+			<item value="2024-07-22"/>
+			<item value="2024-07-16T00:11:15.136-07:00"/>
+			<item value=""/>
+			<item value="2024-07-16T08:04:19.27-07:00"/>
+			<item value="2024-07-16T08:08:56.261-07:00"/>
+			<item value="2024-07-16T08:06:56.077-07:00"/>
+			<item value="2024-07-16T08:04:18.73-07:00"/>
+			<item value="2024-07-26T00:11:15.136-07:00"/>
+			<item value="2024-07-16"/>
+			<item value="&lt;nc:DateTime&gt;2024-06-26T08:04:18.73-07:00&lt;/nc:DateTime&gt;"/>
+			<item value="&lt;nc:DateTime&gt;2024-06-26T08:06:56.077-07:00&lt;/nc:DateTime&gt;"/>
+			<item value="&lt;nc:DateTime&gt;2024-06-26T00:11:15.136-07:00&lt;/nc:DateTime&gt;"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1182"/>
+		<item key="DIALOG_Y_ORIGIN" value="588"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="646"/>
+		<item key="DIALOG_Y_ORIGIN" value="354"/>
+	</section>
+</section>

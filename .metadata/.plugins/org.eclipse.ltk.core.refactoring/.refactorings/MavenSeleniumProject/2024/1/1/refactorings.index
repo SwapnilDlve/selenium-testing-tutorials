@@ -1,0 +1,29 @@
+1704170997663	Rename type 'DataDrivenTest'
+1704171098331	Extract local variable 'file'
+1704171287785	Move file
+1704171347252	Extract local variable 'fis'
+1704171406695	Extract local variable 'workbook'
+1704172119581	Extract local variable 'sheet'
+1704173620082	Extract local variable 'fos'
+1704178497831	Extract local variable 'file'
+1704178589997	Extract local variable 'fis'
+1704178637568	Extract local variable 'workbook'
+1704178673441	Extract local variable 'sheet'
+1704179638020	Extract local variable 'displayed'
+1704181076663	Extract local variable 'pwd'
+1704182947925	Move file
+1704258253520	Extract local variable 'browser'
+1704258345650	Extract local variable 'loans'
+1704265642216	Rename package 'pomDemo'
+1704276795855	Move file
+1704276797579	Move file
+1704284051722	Move file
+1704345658877	Rename type 'AlwaysRunDemo'
+1704352101349	Extract local variable 'sdf'
+1704355313512	Extract local variable 'srcfile'
+1704367464129	Copy file
+1704433038159	Move file
+1704449633562	Move file
+1704449640657	Move file
+1704449707762	Rename resource 'testng.xml'
+1704449757585	Move file

@@ -1,0 +1,6 @@
+1704688901521	Extract local variable 'browser'
+1704689227591	Extract local variable 'stringSelection'
+1704689318380	Extract local variable 'robot'
+1704689656127	Extract local variable 'delete'
+1705145721795	Extract local variable 'row'
+1705145998646	Extract local variable 'fos'

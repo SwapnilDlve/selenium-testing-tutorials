@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;testngGrid.xml&apos; to &apos;MavenSeleniumProject/src/test/java/SeleniumGrid&apos;&#x0D;&#x0A;- Original project: &apos;MavenSeleniumProject&apos;&#x0D;&#x0A;- Destination element: &apos;MavenSeleniumProject/src/test/java/SeleniumGrid&apos;&#x0D;&#x0A;- Original element: &apos;testngGrid.xml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;SeleniumGrid" element1="testngGrid.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1705230809132" units="0" version="1.0"/>
+</session>

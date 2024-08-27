@@ -1,0 +1,98 @@
+2024-01-04 17:59:21,797 INFO l.l.u.LogListener [main] test project start
+2024-01-04 17:59:34,816 INFO l.l.u.LogListener [main] test started ->testInvalidLogin
+2024-01-04 17:59:37,870 INFO l.l.u.LogListener [main] test failure ->testInvalidLogin
+2024-01-04 17:59:37,870 INFO l.l.u.LogListener [main] Message : expected [true] but found [false]
+2024-01-04 17:59:38,177 INFO l.l.u.LogListener [main] test started ->testValidLogin
+2024-01-04 17:59:38,219 INFO l.l.u.LogListener [main] test failure ->testValidLogin
+2024-01-04 17:59:38,220 INFO l.l.u.LogListener [main] Message : stale element reference: stale element not found
+  (Session info: MicrosoftEdge=120.0.2210.91)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [3a147c53157869ae69c38ce2ffac1e06, clickElement {id=9BE5B81586DC8FF6E0AE40532D2A77ED_element_15}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 120.0.2210.91, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49339}, msedge: {msedgedriverVersion: 120.0.2210.91 (f469d579f138..., userDataDir: C:\Users\sdalve\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49339/devtoo..., se:cdpVersion: 120.0.2210.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (3a147c53157869ae69c38ce2ffac1e06)] -> link text: Login]
+Session ID: 3a147c53157869ae69c38ce2ffac1e06
+2024-01-04 17:59:39,149 INFO l.l.u.LogListener [main] test project finish
+2024-01-04 18:17:20,548 INFO l.l.u.LogListener [main] test project start
+2024-01-04 18:17:33,760 INFO l.l.u.LogListener [main] test started ->testInvalidLogin
+2024-01-04 18:17:36,361 INFO l.l.u.LogListener [main] test failure ->testInvalidLogin
+2024-01-04 18:17:36,361 INFO l.l.u.LogListener [main] Message : expected [true] but found [false]
+2024-01-04 18:17:36,606 INFO l.l.u.LogListener [main] test started ->testValidLogin
+2024-01-04 18:17:36,623 INFO l.l.u.LogListener [main] test failure ->testValidLogin
+2024-01-04 18:17:36,624 INFO l.l.u.LogListener [main] Message : stale element reference: stale element not found
+  (Session info: MicrosoftEdge=120.0.2210.91)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [dc3d3994042e167de5ad1fa1a2e656f7, clickElement {id=BC755F2D4765754860E2725C1951233D_element_23}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 120.0.2210.91, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50984}, msedge: {msedgedriverVersion: 120.0.2210.91 (f469d579f138..., userDataDir: C:\Users\sdalve\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50984/devtoo..., se:cdpVersion: 120.0.2210.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (dc3d3994042e167de5ad1fa1a2e656f7)] -> link text: Login]
+Session ID: dc3d3994042e167de5ad1fa1a2e656f7
+2024-01-04 18:17:37,641 INFO l.l.u.LogListener [main] test project finish
+2024-01-04 18:20:21,519 INFO l.l.u.LogListener [main] test project start
+2024-01-04 18:20:35,580 INFO l.l.u.LogListener [main] test started ->testValidLogin
+2024-01-04 18:20:39,131 INFO l.l.u.LogListener [main] test success ->testValidLogin
+2024-01-04 18:20:39,142 INFO l.l.u.LogListener [main] test started ->testInvalidLogin
+2024-01-04 18:20:39,162 INFO l.l.u.LogListener [main] test failure ->testInvalidLogin
+2024-01-04 18:20:39,164 INFO l.l.u.LogListener [main] Message : stale element reference: stale element not found
+  (Session info: MicrosoftEdge=120.0.2210.91)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [27787ec2606d6eb1ce67ef7767a7d3d2, clickElement {id=A31BFCBD920A3BD6436F87E98470D25E_element_15}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 120.0.2210.91, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51259}, msedge: {msedgedriverVersion: 120.0.2210.91 (f469d579f138..., userDataDir: C:\Users\sdalve\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51259/devtoo..., se:cdpVersion: 120.0.2210.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (27787ec2606d6eb1ce67ef7767a7d3d2)] -> link text: Login]
+Session ID: 27787ec2606d6eb1ce67ef7767a7d3d2
+2024-01-04 18:20:40,552 INFO l.l.u.LogListener [main] test project finish
+2024-01-04 18:24:25,041 INFO l.l.u.LogListener [main] test project start
+2024-01-04 18:24:38,234 INFO l.l.u.LogListener [main] test started ->testValidLogin
+2024-01-04 18:24:41,779 INFO l.l.u.LogListener [main] test success ->testValidLogin
+2024-01-04 18:24:41,788 INFO l.l.u.LogListener [main] test started ->testInvalidLogin
+2024-01-04 18:24:41,806 INFO l.l.u.LogListener [main] test failure ->testInvalidLogin
+2024-01-04 18:24:41,807 INFO l.l.u.LogListener [main] Message : stale element reference: stale element not found
+  (Session info: MicrosoftEdge=120.0.2210.91)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [338cd5c86e142e6a09b9b154675e9c88, clickElement {id=ED5C0BD27BDC8899B09C76C045A7BD19_element_15}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 120.0.2210.91, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51615}, msedge: {msedgedriverVersion: 120.0.2210.91 (f469d579f138..., userDataDir: C:\Users\sdalve\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51615/devtoo..., se:cdpVersion: 120.0.2210.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (338cd5c86e142e6a09b9b154675e9c88)] -> link text: Login]
+Session ID: 338cd5c86e142e6a09b9b154675e9c88
+2024-01-04 18:24:43,000 INFO l.l.u.LogListener [main] test project finish
+2024-01-04 18:26:54,093 INFO l.l.u.LogListener [main] test project start
+2024-01-04 18:27:08,694 INFO l.l.u.LogListener [main] test started ->testValidLogin
+2024-01-04 18:27:13,204 INFO l.l.u.LogListener [main] test success ->testValidLogin
+2024-01-04 18:27:13,214 INFO l.l.u.LogListener [main] test started ->testInvalidLogin
+2024-01-04 18:27:13,307 INFO l.l.u.LogListener [main] test failure ->testInvalidLogin
+2024-01-04 18:27:13,310 INFO l.l.u.LogListener [main] Message : stale element reference: stale element not found
+  (Session info: MicrosoftEdge=120.0.2210.91)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ae051bb337843bb01f34e40ebf1a5e04, clickElement {id=9539FBCF424AE4D99560083CFADE97CE_element_14}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 120.0.2210.91, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51860}, msedge: {msedgedriverVersion: 120.0.2210.91 (f469d579f138..., userDataDir: C:\Users\sdalve\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51860/devtoo..., se:cdpVersion: 120.0.2210.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (ae051bb337843bb01f34e40ebf1a5e04)] -> link text: Login]
+Session ID: ae051bb337843bb01f34e40ebf1a5e04
+2024-01-04 18:27:14,737 INFO l.l.u.LogListener [main] test project finish
+2024-01-04 18:29:51,601 INFO l.l.u.LogListener [main] test project start
+2024-01-04 18:30:05,499 INFO l.l.u.LogListener [main] test started ->testValidLogin
+2024-01-04 18:30:09,852 INFO l.l.u.LogListener [main] test success ->testValidLogin
+2024-01-04 18:30:10,225 INFO l.l.u.LogListener [main] test started ->testInvalidLogin
+2024-01-04 18:30:10,257 INFO l.l.u.LogListener [main] test failure ->testInvalidLogin
+2024-01-04 18:30:10,260 INFO l.l.u.LogListener [main] Message : stale element reference: stale element not found
+  (Session info: MicrosoftEdge=120.0.2210.91)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [62c517ca1662b18006cded2ffba17ae9, clickElement {id=465A8DA571ED9C1018F8F65798EFB646_element_23}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 120.0.2210.91, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52185}, msedge: {msedgedriverVersion: 120.0.2210.91 (f469d579f138..., userDataDir: C:\Users\sdalve\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52185/devtoo..., se:cdpVersion: 120.0.2210.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (62c517ca1662b18006cded2ffba17ae9)] -> link text: Login]
+Session ID: 62c517ca1662b18006cded2ffba17ae9
+2024-01-04 18:30:11,529 INFO l.l.u.LogListener [main] test project finish

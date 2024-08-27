@@ -1,0 +1,16 @@
+1704716782155	Rename type 'LoginFeature'
+1704717073343	Extract local variable 'browser'
+1704717948542	Extract local variable 'message'
+1704775995134	Rename package 'browser.util'
+1704776098669	Rename package 'webdriver.util'
+1704792344883	Move compilation unit
+1704792354590	Move compilation unit
+1704793438989	Move compilation unit
+1704793494592	Move compilation unit
+1704798996167	Extract local variable 'asList'
+1704801170697	Extract local variable 'keySet'
+1704802624769	Move compilation unit
+1704804112242	Move compilation unit
+1704861201448	Rename package 'BrowserUtil'
+1704861988239	Move compilation unit
+1704869399112	Rename type 'CucumberRunner'
